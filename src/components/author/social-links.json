@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_author_social_links",
+  "info": {
+    "displayName": "social_links",
+    "icon": "globe"
+  },
+  "options": {},
+  "attributes": {
+    "instagram": {
+      "type": "string"
+    },
+    "facebook": {
+      "type": "string"
+    },
+    "x": {
+      "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    }
+  }
+}
